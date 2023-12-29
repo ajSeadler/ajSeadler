@@ -41,6 +41,10 @@ Let's build something amazing together! 🚀
 <a href="https://app.daily.dev/ajseadler"><img src="https://api.daily.dev/devcards/54fc0e9b681c4c54a57043ef55ea1999.png?r=dl6" width="400" alt="Aj Seadler's Dev Card"/></a>
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajSeadler)](https://github.com/anuraghazra/github-readme-stats)
+
+ ## **Like Music? Check Out My Band Below!**
+
+ <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0PptqapSMqfkrNGHcWKTIR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <!--
 **ajSeadler/ajSeadler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
