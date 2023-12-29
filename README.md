@@ -2,7 +2,7 @@
 
  I'm a versatile and passionate full-stack developer with a keen interest in crafting immersive web experiences. My expertise spans across a dynamic tech stack that includes JavaScript, Node.js, React.js, Express.js, Next.js, Vite, Python, and Flask.
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajSeadler)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## **About Me**
 
@@ -39,6 +39,8 @@ Let's build something amazing together! 🚀
 
 
 <a href="https://app.daily.dev/ajseadler"><img src="https://api.daily.dev/devcards/54fc0e9b681c4c54a57043ef55ea1999.png?r=dl6" width="400" alt="Aj Seadler's Dev Card"/></a>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajSeadler)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ajSeadler/ajSeadler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
