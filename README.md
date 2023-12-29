@@ -44,7 +44,8 @@ Let's build something amazing together! 🚀
 
  ## **Like Music? Check Out My Band Below!**
 
- <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0PptqapSMqfkrNGHcWKTIR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[![My Band on Spotify](https://img.shields.io/badge/Listen%20on-Spotify-green)](https://open.spotify.com/album/0PptqapSMqfkrNGHcWKTIR?utm_source=generator)
+
 <!--
 **ajSeadler/ajSeadler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
