@@ -31,7 +31,7 @@ If you're looking for a dynamic and versatile full-stack developer who is passio
 
 🌐 **Portfolio:** [AnthonySeadler.com](https://anthonyseadler.com)
 
-📬 **Contact:** [Your Email Address]
+📬 **Contact:** [aj6287@gmail.com]
 
 Let's build something amazing together! 🚀
 
