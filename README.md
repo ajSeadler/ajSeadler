@@ -35,7 +35,7 @@ If you're looking for a dynamic and versatile full-stack developer who is passio
 
 📬 **Contact:** aj6287@gmail.com
 
-Let's build something amazing together! 🚀
+Let's build something together! 🚀
 
 
 <a href="https://app.daily.dev/ajseadler"><img src="https://api.daily.dev/devcards/54fc0e9b681c4c54a57043ef55ea1999.png?r=dl6" width="400" alt="Aj Seadler's Dev Card"/></a>
