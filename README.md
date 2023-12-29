@@ -2,6 +2,8 @@
 
  I'm a versatile and passionate full-stack developer with a keen interest in crafting immersive web experiences. My expertise spans across a dynamic tech stack that includes JavaScript, Node.js, React.js, Express.js, Next.js, Vite, Python, and Flask.
 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajSeadler)](https://github.com/anuraghazra/github-readme-stats)
+
 ## **About Me**
 
 I'm passionate about unraveling the intricacies of challenging problems, transforming abstract concepts into practical solutions, and architecting applications that seamlessly balance robustness and scalability. My journey in the world of coding has been driven by curiosity and a love for creating meaningful solutions. I have hands-on experience with both front-end and back-end technologies, allowing me to navigate seamlessly through the entire development process.
