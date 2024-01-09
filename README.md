@@ -1,4 +1,4 @@
-# **Full Stack Web Developer**
+# **Full Stack Web Developer** 🌐 **Portfolio:** [AnthonySeadler.com](https://anthonyseadler.com)
 
  I'm a versatile and passionate full-stack developer with a keen interest in crafting immersive web experiences. My expertise spans across a dynamic tech stack that includes JavaScript, Node.js, React.js, Express.js, Next.js, Vite, Python, and Flask.
 
@@ -33,7 +33,7 @@ I am actively seeking new opportunities for coding work, projects, or employment
 
 If you're looking for a dynamic and versatile full-stack developer who is passionate about building exceptional software, I would love to connect with you. Feel free to explore my repositories, and if you find something that sparks your interest, let's chat! Whether it's a collaboration, project, or employment opportunity, I'm open to exploring new possibilities.
 
-🌐 **Portfolio:** [AnthonySeadler.com](https://anthonyseadler.com)
+
 
 📬 **Contact:** aj6287@gmail.com
 
