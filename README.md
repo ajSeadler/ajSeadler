@@ -6,7 +6,7 @@
 
 
 ## **About Me**
-Hi! My name is Anthony but most people call me AJ. My journey in the world of coding has been driven by curiosity and a love for creating meaningful software. I have hands-on experience with both front-end and back-end technologies, allowing me to navigate seamlessly through the entire development process.
+Hi! My name is Anthony but most people call me AJ. My journey in the world of coding has been driven by curiosity and a love for creating meaningful software. I have hands-on experience with both front-end and back-end technologies, allowing me to navigate wit ease through the entire development process.
 
 ## **Tech Stack**
 
@@ -19,7 +19,7 @@ Hi! My name is Anthony but most people call me AJ. My journey in the world of co
 
 ## **What I Bring to the Table**
 
-- 🚀 **Innovative Solutions:** I enjoy pushing boundaries and exploring new technologies to create innovative solutions that enhance user experiences.
+- 🚀 **Innovative Solutions:** I enjoy pushing boundaries and exploring new technologies to create innovative solutions that enhance user experiences - or even company experience!.
 
 - 🤝 **Collaboration:** I believe in the power of collaboration and effective communication. Working in diverse teams has sharpened my ability to adapt and contribute positively to collective goals.
 
