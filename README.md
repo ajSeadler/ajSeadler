@@ -16,7 +16,7 @@ When I'm not coding, I enjoy camping, playing guitar, and spending time with my 
 - **Database:** PostgreSQL
 - **Build Tools:** Vite
 
-   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajSeadler&hide=stars&theme=dracula&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajSeadler&hide=stars&theme=gruvbox&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## **What I Bring to the Table**
 
