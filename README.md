@@ -6,8 +6,7 @@
 
 
 ## **About Me**
-
-I'm passionate about unraveling the intricacies of challenging problems, transforming abstract concepts into practical solutions, and architecting applications that seamlessly balance robustness and scalability. My journey in the world of coding has been driven by curiosity and a love for creating meaningful solutions. I have hands-on experience with both front-end and back-end technologies, allowing me to navigate seamlessly through the entire development process.
+Hi! My name is Anthony but most people call me AJ. My journey in the world of coding has been driven by curiosity and a love for creating meaningful software. I have hands-on experience with both front-end and back-end technologies, allowing me to navigate seamlessly through the entire development process.
 
 ## **Tech Stack**
 
