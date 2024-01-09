@@ -15,6 +15,8 @@ I'm passionate about unraveling the intricacies of challenging problems, transfo
 - **Database:** PostgreSQL
 - **Build Tools:** Vite
 
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajSeadler&hide=stars&theme=dracula&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## **What I Bring to the Table**
 
 - 🚀 **Innovative Solutions:** I enjoy pushing boundaries and exploring new technologies to create innovative solutions that enhance user experiences.
@@ -40,7 +42,7 @@ Let's build something together! 🚀
 
 <a href="https://app.daily.dev/ajseadler"><img src="https://api.daily.dev/devcards/54fc0e9b681c4c54a57043ef55ea1999.png?r=dl6" width="400" alt="Aj Seadler's Dev Card"/></a>
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajSeadler&hide=stars&theme=dracula&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
  ## **Like Music? Check Out My Band Below!**
 
