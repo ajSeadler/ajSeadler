@@ -32,7 +32,7 @@ I am actively seeking new opportunities for coding work, projects, or employment
 
 ## **Let's Connect!**
 
-If you're looking for a dynamic and versatile full-stack developer who is passionate about building exceptional software, I would love to connect with you. Feel free to explore my repositories, and if you find something that sparks your interest, let's chat! Whether it's a collaboration, project, or employment opportunity, I'm open to exploring new possibilities.
+If you're looking for a full-stack developer who is passionate about building exceptional software, I would love to connect with you. Feel free to explore my repositories, and if you find something that sparks your interest, let's chat! Whether it's a collaboration, project, or employment opportunity, I'm open to exploring new possibilities.
 
 
 
