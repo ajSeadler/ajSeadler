@@ -36,7 +36,7 @@ If you're looking for a full-stack developer who is passionate about building ex
 
 
 
-📬 **Contact:** aj6287@gmail.com
+📬 **Contact:** anthonyseadler@gmail.com
 
 Let's build something together! 🚀
 
