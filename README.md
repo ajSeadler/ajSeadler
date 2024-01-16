@@ -6,7 +6,7 @@
 
 
 ## **About Me**
-Hi! My name is Anthony but most people call me AJ. My journey in the world of coding has been driven by curiosity and a love for creating meaningful software. I have hands-on experience with both front-end and back-end technologies, allowing me to navigate wit ease through the entire development process.
+Hi! My name is Anthony but most people call me AJ. My journey in the world of coding has been driven by curiosity and a love for creating meaningful projects. I have hands-on experience with both front-end and back-end technologies, allowing me to navigate wit ease through the entire development process.
 When I'm not coding, I enjoy camping, playing guitar, and spending time with my wife and dogs.
 
 ## **Tech Stack**
