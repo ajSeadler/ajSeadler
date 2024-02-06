@@ -1,7 +1,7 @@
 # **Full Stack Web Developer** 
 # [AnthonySeadler.com](https://anthonyseadler.com)
 
- I'm a versatile and passionate full-stack developer with a strong interest in sharpening my skills. My expertise spans across a tech stack that includes but isn't limited to JavaScript, Node.js, React.js, Express.js, Next.js, Vite, Python, and Flask.
+ I'm a versatile and passionate full-stack developer with a borderline obsession of coding. My expertise spans across a tech stack that includes but isn't limited to JavaScript, Node.js, React.js, Express.js, Next.js, Vite, Python, and Flask.
 
 
 
