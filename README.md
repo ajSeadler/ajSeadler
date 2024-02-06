@@ -31,14 +31,6 @@ def about_me():
 print(about_me())
 ```
 
-
-
-
-
- I'm a versatile and passionate full-stack developer with expertise in the PERN tech stack. 
-
-
-
 ## **About Me**
 Hi! My name is Anthony but most people call me AJ. My journey in the world of coding has been driven by curiosity and a love for creating fun yet practical projects. I have hands-on experience with both front-end and back-end technologies, allowing me to navigate through the full development process.
 When I'm not coding, I enjoy camping, playing guitar, and spending time with my wife and dogs.
