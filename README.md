@@ -56,7 +56,7 @@ When I'm not coding, I enjoy camping, playing guitar, and spending time with my 
 
 - 🚀 **Innovative Solutions:** I enjoy pushing boundaries and exploring new technologies to create innovative solutions that enhance user experiences - or even company experience!.
 
-- 🤝 **Collaboration:** Collaboration and effective communication are key components to creating a string and mealthy work environment. Working in teams has sharpened my ability to adapt and contribute positively to collective goals.
+- 🤝 **Collaboration:** Collaboration and effective communication are key components to creating a strong and healthy work environment. Working with teams has sharpened my ability to adapt and contribute positively to collective goals.
 
 - 🧰 **Toolbelt Mastery:** Proficient in using a variety of tools and frameworks, I'm always eager to explore and learn new technologies to stay ahead in the ever-evolving tech landscape.
 
