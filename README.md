@@ -23,8 +23,8 @@ function aboutMe() {
   const linkedin = "linkedin.com/in/anthony-seadler";
 
   const intro = `Hey there! I'm ${name}, a ${age}-year-old ${gender} coding enthusiast from ${location}.`;
-  const skills = `I wield the power of ${techStack.join(", ")}, along with a pinch of JavaScript magic.`;
-  const contact = `You can find me tinkering on my personal site [${website}](${website}), shoot me an email at ${email}, or connect with me on [LinkedIn](${linkedin}). Let's build something cool together!`;
+  const skills = `Currently im coding with ${techStack.join(", ")}`;
+  const contact = `Shoot me an owl at ${email}, or connect with me on [LinkedIn](${linkedin}). Let's build something cool together!`;
 
   return `${intro}\n\n${skills}\n\n${contact}`;
 }
