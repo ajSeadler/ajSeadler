@@ -1,7 +1,7 @@
 # **Full Stack Web Developer** 
 # [AnthonySeadler.com](https://anthonyseadler.com)
 
- I'm a versatile and passionate full-stack developer with a keen interest in crafting immersive web experiences. My expertise spans across a dynamic tech stack that includes JavaScript, Node.js, React.js, Express.js, Next.js, Vite, Python, and Flask.
+ I'm a versatile and passionate full-stack developer with a strong interest in sharpening my skills. My expertise spans across a tech stack that includes but isn't limited to JavaScript, Node.js, React.js, Express.js, Next.js, Vite, Python, and Flask.
 
 
 
@@ -11,10 +11,10 @@ When I'm not coding, I enjoy camping, playing guitar, and spending time with my 
 
 ## **Tech Stack**
 
-- **Front-End:** React.js, Next.js, Three.js
-- **Back-End:** Node.js, Express.js, Python, Flask
-- **Database:** PostgreSQL
-- **Build Tools:** Vite
+- React.js, Next.js, Three.js
+- Node.js, Express.js, Python, Flask
+- PostgreSQL
+- Vite
 
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajSeadler&hide=stars&theme=gruvbox&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,7 +22,7 @@ When I'm not coding, I enjoy camping, playing guitar, and spending time with my 
 
 - 🚀 **Innovative Solutions:** I enjoy pushing boundaries and exploring new technologies to create innovative solutions that enhance user experiences - or even company experience!.
 
-- 🤝 **Collaboration:** I believe in the power of collaboration and effective communication. Working in diverse teams has sharpened my ability to adapt and contribute positively to collective goals.
+- 🤝 **Collaboration:** Collaboration and effective communication are key components to creating a string and mealthy work environment. Working in teams has sharpened my ability to adapt and contribute positively to collective goals.
 
 - 🧰 **Toolbelt Mastery:** Proficient in using a variety of tools and frameworks, I'm always eager to explore and learn new technologies to stay ahead in the ever-evolving tech landscape.
 
