@@ -1,36 +1,35 @@
 # **Full Stack Web Developer** 
 # [AnthonySeadler.com](https://anthonyseadler.com)
 
-```javascript
-function aboutMe() {
-  const name = "Anthony Seadler";
-  const location = "OKC, Oklahoma";
-  const gender = "male";
-  const age = 27;
-  const techStack = [
-    "PostgreSQL",
-    "Express.js",
-    "React.js",
-    "Node.js",
-    "Python",
-    "Flask",
-    "HTML",
-    "CSS",
-    "Next.js"
-  ];
-  const website = "https://anthonyseadler.com";
-  const email = "anthonyseadler@gmail.com";
-  const linkedin = "linkedin.com/in/anthony-seadler";
+```python
+def about_me():
+    name = "Anthony Seadler"
+    location = "OKC, Oklahoma"
+    gender = "male"
+    age = 27
+    tech_stack = [
+        "PostgreSQL",
+        "Express.js",
+        "React.js",
+        "Node.js",
+        "Python",
+        "Flask",
+        "HTML",
+        "CSS",
+        "Next.js"
+    ]
+    website = "https://anthonyseadler.com"
+    email = "anthonyseadler@gmail.com"
+    linkedin = "linkedin.com/in/anthony-seadler"
 
-  const intro = `Hey there! I'm ${name}, a ${age}-year-old ${gender} coding enthusiast from ${location}.`;
-  const skills = `Currently im coding with ${techStack.join(", ")}`;
-  const contact = `Shoot me an owl at ${email}, or connect with me on [LinkedIn](${linkedin}). Let's build something cool together!`;
+    intro = f"Hey there! I'm {name}, a {age}-year-old {gender} coding enthusiast from {location}."
+    skills = f"Currently I'm coding with {', '.join(tech_stack)}."
+    contact = f"Shoot me an owl at {email}, or connect with me on [LinkedIn]({linkedin}). Let's build something cool together!"
 
-  return `${intro}\n\n${skills}\n\n${contact}`;
-}
+    return f"{intro}\n\n{skills}\n\n{contact}"
 
-console.log(aboutMe());
-```
+print(about_me())
+
 
 
 
