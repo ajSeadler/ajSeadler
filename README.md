@@ -1,19 +1,51 @@
 # **Full Stack Web Developer** 
 # [AnthonySeadler.com](https://anthonyseadler.com)
 
- I'm a versatile and passionate full-stack developer with a borderline obsession of coding. My expertise spans across a tech stack that includes but isn't limited to JavaScript, Node.js, React.js, Express.js, Next.js, Vite, Python, and Flask.
+```javascript
+function generateBio() {
+  const name = "Anthony Seadler";
+  const location = "OKC, Oklahoma";
+  const gender = "male";
+  const age = 27;
+  const techStack = [
+    "PostgreSQL",
+    "Express.js",
+    "React.js",
+    "Node.js",
+    "Python",
+    "Flask",
+    "HTML",
+    "CSS",
+    "Next.js"
+  ];
+  const website = "https://anthonyseadler.com";
+  const email = "anthonyseadler@gmail.com";
+  const linkedin = "linkedin.com/in/anthony-seadler";
+
+  const intro = `Hey there! I'm ${name}, a ${age}-year-old ${gender} coding enthusiast from ${location}. `;
+  const skills = `I wield the power of ${techStack.join(", ")} and a pinch of JavaScript magic. `;
+  const contact = `You can find me tinkering on my personal site ${website}, shoot me an owl at ${email}, or connect with me on LinkedIn at ${linkedin}. Let's build something cool together!`;
+
+  return intro + skills + contact;
+}
+
+console.log(generateBio());
+```
+
+
+ I'm a versatile and passionate full-stack developer with expertise in the PERN tech stack. 
 
 
 
 ## **About Me**
-Hi! My name is Anthony but most people call me AJ. My journey in the world of coding has been driven by curiosity and a love for creating meaningful projects. I have hands-on experience with both front-end and back-end technologies, allowing me to navigate wit ease through the entire development process.
+Hi! My name is Anthony but most people call me AJ. My journey in the world of coding has been driven by curiosity and a love for creating fun yet practical projects. I have hands-on experience with both front-end and back-end technologies, allowing me to navigate through the full development process.
 When I'm not coding, I enjoy camping, playing guitar, and spending time with my wife and dogs.
 
 ## **Tech Stack**
 
 - React.js, Next.js, Three.js
 - Node.js, Express.js, Python, Flask
-- PostgreSQL
+- PostgreSQL, SQL, Mongodb
 - Vite
 
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajSeadler&hide=stars&theme=gruvbox&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
