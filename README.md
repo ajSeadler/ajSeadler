@@ -1,36 +1,6 @@
 # **Full Stack Web Developer** 
 # [AnthonySeadler.com](https://anthonyseadler.com)
 
-```python
-def about_me():
-    name = "Anthony Seadler"
-    location = "OKC, Oklahoma"
-    gender = "male"
-    age = 27
-    tech_stack = [
-        "PostgreSQL",
-        "Express.js",
-        "React.js",
-        "Node.js",
-        "Python",
-        "Flask",
-        "HTML",
-        "CSS",
-        "Next.js"
-    ]
-    website = "https://anthonyseadler.com"
-    email = "anthonyseadler@gmail.com"
-    linkedin = "linkedin.com/in/anthony-seadler"
-
-    intro = f"Hey there! I'm {name}, a {age}-year-old {gender} coding enthusiast from {location}."
-    skills = f"Currently I'm coding with {', '.join(tech_stack)}."
-    contact = f"Shoot me an owl at {email}, or connect with me on [LinkedIn]({linkedin}). Let's build something cool together!"
-
-    return f"{intro}\n\n{skills}\n\n{contact}"
-
-print(about_me())
-```
-
 ## **About Me**
 Hi! My name is Anthony but most people call me AJ. My journey in the world of coding has been driven by curiosity and a love for creating fun yet practical projects. I have hands-on experience with both front-end and back-end technologies, allowing me to navigate through the full development process.
 When I'm not coding, I enjoy camping, playing guitar, and spending time with my wife and dogs.
