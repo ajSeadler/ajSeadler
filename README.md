@@ -14,27 +14,6 @@ When I'm not coding, I enjoy camping, playing guitar, and spending time with my 
 
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajSeadler&hide=stars&theme=gruvbox&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## **What I Bring to the Table**
-
-- 🚀 **Innovative Solutions:** I enjoy pushing boundaries and exploring new technologies to create innovative solutions that enhance user experiences - or even company experience!.
-
-- 🤝 **Collaboration:** Collaboration and effective communication are key components to creating a strong and healthy work environment. Working with teams has sharpened my ability to adapt and contribute positively to collective goals.
-
-- 🧰 **Toolbelt Mastery:** Proficient in using a variety of tools and frameworks, I'm always eager to explore and learn new technologies to stay ahead in the ever-evolving tech landscape.
-
-## **What I'm Looking For**
-
-I am actively seeking new opportunities for coding work, projects, or employment where I can leverage my skills to contribute to exciting and impactful projects. While I have gained valuable experience, I approach each project with a fresh perspective and a hunger for continuous improvement.
-
-## **Let's Connect!**
-
-If you're looking for a full-stack developer who is passionate about building exceptional software, I would love to connect with you. Feel free to explore my repositories, and if you find something that sparks your interest, let's chat! Whether it's a collaboration, project, or employment opportunity, I'm open to exploring new possibilities.
-
-
-
-📬 **Contact:** anthonyseadler@gmail.com
-
-Let's build something together! 🚀
 
 
 <a href="https://app.daily.dev/ajseadler"><img src="https://api.daily.dev/devcards/54fc0e9b681c4c54a57043ef55ea1999.png?r=dl6" width="400" alt="Aj Seadler's Dev Card"/></a>
